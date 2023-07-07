@@ -1,10 +1,5 @@
-
 function App() {
-  return (
-    <div className="App">
-      MyMediCare
-    </div>
-  );
+  return <div className="App">MyMediCare</div>;
 }
 
 export default App;
