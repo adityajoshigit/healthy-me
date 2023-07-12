@@ -9,7 +9,7 @@
       }
     },
     {
-      "files": ["*.html", "legacy/**/*.js", "*.jsx"],
+      "files": ["*.html", "*.js", "*.jsx"],
       "options": {
         "semi": true,
         "tabWidth": 2
